@@ -4,6 +4,7 @@ const HomePage = () => {
       <p>Hompage</p>
       <p>Ibrahim</p>
       <p>Mustafa</p>
+      <h1>html</h1>
     </>
   );
 };
